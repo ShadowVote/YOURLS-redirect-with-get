@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Redirect with GET
-Plugin URI: https://token.fnkr.net/yourls-redirect-with-get
+Plugin URI: https://ge1.me/yourls-redirect-with-get
 Description: Redirect with all GET parameters.
 Version: 1.0
 Author: fnkr
