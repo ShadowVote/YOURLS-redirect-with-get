@@ -1,7 +1,7 @@
 YOURLS Redirect with GET
 ========================
 
-Plugin for [YOURLS](http://yourls.org) `1.6`. 
+Plugin for [YOURLS](http://yourls.org) `1.6` and `1.7`. 
 
 Description
 -----------
