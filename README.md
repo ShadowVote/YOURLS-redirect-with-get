@@ -38,4 +38,4 @@ THE SOFTWARE.
 
 One more thing
 --------------
-Please report any bug or proposal to the [issue tracker](https://redmine.fnkr.net/projects/yourls-redirect-with-get/issues)!
+Please report any bug or proposal to the [issue tracker](https://ge1.me/yourls-redirect-with-get-issues)!
